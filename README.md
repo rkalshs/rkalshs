@@ -9,7 +9,7 @@
  
 <br>
  
-## 📞 Contact 📞
+## SNS / 소셜 미디어
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.instagram.com/goo_push">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
@@ -19,7 +19,7 @@
     </a>
 </div><br>
     
-## 🔨 Once I've used 🔨
+## 배웠었던 것들
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
